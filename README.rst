@@ -1,3 +1,10 @@
+Notice
+======
+
+The scope of the project has been narrowed down and renamed to programmable
+tuple. The repository has been moved to
+`here <https://github.com/tschijnmo/programmabletuple>`_.
+
 immutableclass
 ==============
 
